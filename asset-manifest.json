@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fcc-fe-quote-generator/static/css/main.6a7169d9.css",
+    "main.js": "/fcc-fe-quote-generator/static/js/main.d7ce51df.js",
+    "static/js/787.6975f71e.chunk.js": "/fcc-fe-quote-generator/static/js/787.6975f71e.chunk.js",
+    "static/media/Film_strip.png": "/fcc-fe-quote-generator/static/media/Film_strip.8e554fae04e4d85f5737.png",
+    "index.html": "/fcc-fe-quote-generator/index.html",
+    "main.6a7169d9.css.map": "/fcc-fe-quote-generator/static/css/main.6a7169d9.css.map",
+    "main.d7ce51df.js.map": "/fcc-fe-quote-generator/static/js/main.d7ce51df.js.map",
+    "787.6975f71e.chunk.js.map": "/fcc-fe-quote-generator/static/js/787.6975f71e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a7169d9.css",
+    "static/js/main.d7ce51df.js"
+  ]
+}
